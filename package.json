@@ -87,7 +87,7 @@
     "babel-jest": "^24.8.0",
     "cross-env": "^5.2.0",
     "directory-tree": "^2.2.3",
-    "eslint": "^6.1.0",
+    "eslint": "6.4.0",
     "eslint-config-developit": "^1.1.1",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.1.0",
